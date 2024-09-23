@@ -6,5 +6,5 @@ Prometheus, Grafana, AlertManager
 A)  Install Prometheus on target system.
 B)  Install Grafana on target system.
 C)  Install node exporter for exposing system data.
-D)  Install alertmanager for sending alerts to pagerduty/slack etc.
+D)  Install alertmanager for sending alerts to pagerduty/slack etc
 
